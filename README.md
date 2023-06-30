@@ -10,8 +10,8 @@
 - --------- WordPress -------------
 - https://interior-design.sunoshayari.com/
 
------------ Youtube Channel -----------
-https://www.youtube.com/@zonetocode9552
+- ----------- Youtube Channel -----------
+- https://www.youtube.com/@zonetocode9552
 
 - -------- Contact Information ------------
 - GitHub: @Prince142001
