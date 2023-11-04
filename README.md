@@ -1,6 +1,7 @@
 ----------------- Languages Known ----------
 - HTML5 | CSS3 | JavaScript | Basic Bootstrap | Intermediate Tailwind CSS | Swiper Js | Basic jQuery
 - C/C++ | Core Java
+- Python
 
 - --------- API’s -------------
 - Google Map
