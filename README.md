@@ -4,6 +4,7 @@
 - Python
 
 - --------- API’s -------------
+- Google reCAPTCHA
 - Google Map
 - Google Pie Chart
 - TMDB
