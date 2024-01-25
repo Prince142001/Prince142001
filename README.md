@@ -1,5 +1,5 @@
 ----------------- Languages Known ----------
-- HTML5 | CSS3 | JavaScript | Basic Bootstrap | Intermediate Tailwind CSS | Swiper Js | Basic jQuery
+- HTML5 | CSS3 | JavaScript | Intermediate Tailwind CSS | Swiper Js | Basic jQuery |Basic Bootstrap
 - C/C++ | Core Java
 - Python
 
