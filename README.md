@@ -8,15 +8,13 @@
 - Google Pie Chart
 - TMDB
 
-- --------- WordPress -------------
-- https://interior-design.sunoshayari.com/
-
 - ----------- Youtube Channel -----------
 - https://www.youtube.com/@zonetocode9552
 
 - -------- Contact Information ------------
 - GitHub: @Prince142001
 - Email: prince.pv.14.2000@gmail.com
+- LinkedIn: https://www.linkedin.com/in/zonetocode-92b48b25b/
   
 
 <!---
