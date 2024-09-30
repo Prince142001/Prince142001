@@ -1,8 +1,22 @@
 ----------------- Languages Known ----------
-- HTML5 | CSS3 | JavaScript | Intermediate Tailwind CSS | Swiper Js | Basic jQuery |Basic Bootstrap
 - C/C++ | Core Java
 - Python
 
+- --------------- Frontend Technologies -------------------------
+- HTML5
+- CSS3
+- JavaScript
+- Intermediate
+- Tailwind CSS
+- Swiper Js
+- Basic jQuery
+- Basic Bootstrap
+
+- --------- Backend Technologies -------------
+- PHP
+- MySQL
+- AJAX
+  
 - --------- API’s -------------
 - Google reCAPTCHA
 - Google Map
